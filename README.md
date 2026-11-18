@@ -11,7 +11,7 @@ The objective of this assignment is to design, modify, and enforce data integrit
 ## 🗂️ Repository Structure
 
 * `DDL&CONSTRAINTS.sql` – Complete SQL script containing both Part 1 (DDL Commands) and Part 2 (Schema Recreation with Constraints).
-* `DDL&CONSTRAINTS.doc` – Step-by-step documentation detailing the workflow, logic, and verification steps used to complete the assignment.
+* `MySQL Documentation` – Step-by-step documentation detailing the workflow, logic, and verification steps used to complete the assignment.
 * `README.md` – Project overview and setup instructions.
 
 ## 🛠️ Key Concepts Covered
